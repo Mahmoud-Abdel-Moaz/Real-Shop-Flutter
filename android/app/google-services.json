@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "293088009137",
+    "firebase_url": "https://login-a2722.firebaseio.com",
+    "project_id": "login-a2722",
+    "storage_bucket": "login-a2722.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293088009137:android:2c82c39ff9145cf44abb90",
+        "android_client_info": {
+          "package_name": "com.example.real_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293088009137-iq1d6fpnkifsqsub6angbqri0rigqloh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJBDTtb7NJuhNUQc3T7_tpvw2JMwGGrCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293088009137-iq1d6fpnkifsqsub6angbqri0rigqloh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
